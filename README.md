@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amarsharma222
-- 👀 I’m interested in Java 11
+- 👀 I’m interested in Java 11 and Spring projects
 - 🌱 I’m currently learning Reactive Programming
-- 💞️ I’m looking to collaborate on Spring Projects
+- 💞️ I’m looking to collaborate on Open source Projects
 - 📫 How to reach me amarsharma222@gmail.com
 
 <!---
